@@ -7,7 +7,7 @@ Git é um sistema de versionamento de arquivos.
 Github é uma plataforma de armazenamento de versões git.
 
 
-1.1 Conceitos importantes
+## 1.1 Conceitos importantes
 
 
 Respositórios são "pastas" do git, utilizadas para armazenamento de projetos

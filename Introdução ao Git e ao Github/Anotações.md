@@ -17,7 +17,7 @@ Merge é a junção de uma branch alternativa com uma branch principal
 Push é trazer os arquivos para o repositório remoto
 Pull request são contribuições feitas em projetos OpenSource
 
-2. Utilizando o Git e Github
+# 2. Utilizando o Git e Github
 
 Antes de utilizarmos o git é necessário configurá-lo com nome e o e-mail do usuário:
 
